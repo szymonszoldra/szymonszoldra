@@ -2,4 +2,4 @@
 
 ### technologies
 
-![technologies](https://raw.githubusercontent.com/szymonszoldra/react-bank/master/technologies.png)
+![technologies](https://raw.githubusercontent.com/szymonszoldra/szymonszoldra/master/technologies.png)
